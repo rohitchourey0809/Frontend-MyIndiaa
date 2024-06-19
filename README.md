@@ -5,6 +5,8 @@ This repository contains a dynamic and responsive e-commerce platform built usin
 
 ## Demo
 
+![image](https://github.com/rohitchourey0809/Frontend-MyIndiaa/assets/97465195/38bdc791-da5a-4ec6-8c76-0fb175e8cbeb)
+
 
 
 ## Technologies Used
