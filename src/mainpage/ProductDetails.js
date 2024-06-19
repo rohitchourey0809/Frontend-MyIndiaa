@@ -21,7 +21,7 @@ const ProductDetails = () => {
     <div>
       <Header />
       <Navigation />
-      <main className="p-4">
+      <main className="p-4 mt-60">
         <motion.div
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
