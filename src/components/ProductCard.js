@@ -20,7 +20,7 @@ const ProductCard = ({ product }) => {
   };
 
   return (
-    <div className="max-w-xs sm:max-w-sm md:max-w-md bg-white border border-gray-200 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 transform hover:scale-105 dark:bg-gray-800 dark:border-gray-700 mb-6">
+    <div className="max-w-xs sm:max-w-sm md:max-w-md bg-white border border-gray-200 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 transform hover:scale-105 dark:bg-gray-900 dark:border-gray-900 mb-6">
       <Link to={`/product/${product.id}`} className="block">
         <img
           className="rounded-t-lg w-full h-48 sm:h-56 md:h-64 object-cover transition-transform duration-500 hover:scale-110"
