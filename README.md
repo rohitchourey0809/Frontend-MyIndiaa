@@ -1,7 +1,7 @@
 
 
 ## India E-commerce Platform
-This repository contains a dynamic and responsive e-commerce platform built using React.js and Tailwind CSS. It includes reusable components, state management with Redux, responsive design across various devices, and PWA implementation for offline capabilities.
+Dynamic and responsive e-commerce platform built using React.js and Tailwind CSS. It includes reusable components, state management with Redux, responsive design across various devices, and PWA implementation for offline capabilities.
 
 ## Demo
 

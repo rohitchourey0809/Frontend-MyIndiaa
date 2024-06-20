@@ -14,10 +14,10 @@ const Cart = () => {
   };
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen dark:bg-gray-900">
       <Header />
       <Navigation />
-      <main className="flex-grow p-4 bg-gray-100 dark:bg-gray-900">
+      <main className="flex-grow p-4 bg-gray-100 dark:bg-gray-900 mt-40">
         <div className="container mx-auto">
           <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
             Shopping Cart
