@@ -46,13 +46,7 @@ cd Frontend-MyIndiaa
 ```
 npm install
 npm start
-
 ```
 
 
 
-
-```
-npm start
-
-```
