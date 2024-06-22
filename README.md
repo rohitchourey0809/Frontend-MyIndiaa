@@ -7,9 +7,18 @@ Dynamic and responsive e-commerce platform built using React.js and Tailwind CSS
 
 ![image](https://github.com/rohitchourey0809/Frontend-MyIndiaa/assets/97465195/38bdc791-da5a-4ec6-8c76-0fb175e8cbeb)
 
+## Products
+![image](https://github.com/rohitchourey0809/Frontend-MyIndiaa/assets/97465195/f230a1bb-6f81-49d3-a377-c9efacd7506c)
+
+## Carts
+![image](https://github.com/rohitchourey0809/Frontend-MyIndiaa/assets/97465195/d28ae48a-5094-4b82-a2ed-b5feb608579a)
+
+
+
 
 
 ## Technologies Used
+
 React.js: JavaScript library for building user interfaces.
 Redux: State management library for JavaScript applications.
 Tailwind CSS: Utility-first CSS framework for styling.
@@ -31,8 +40,15 @@ Clone the repository:
 
 ```
 git clone https://github.com/rohitchourey0809/Frontend-MyIndiaa.git
+cd Frontend-MyIndiaa
+```
 
 ```
+npm install
+npm start
+
+```
+
 
 
 
