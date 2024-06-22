@@ -16,13 +16,13 @@ Dynamic and responsive e-commerce platform built using React.js and Tailwind CSS
 
 
 
-
 ## Technologies Used
 
-React.js: JavaScript library for building user interfaces.
-Redux: State management library for JavaScript applications.
-Tailwind CSS: Utility-first CSS framework for styling.
-Service Workers: For implementing PWA features such as caching and offline access.
+- **React.js**: JavaScript library for building user interfaces.
+- **Redux**: State management library for JavaScript applications.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Service Workers**: For implementing PWA features such as caching and offline access.
+
 
 ## DeployedUrl
 ```
